@@ -1,4 +1,4 @@
 Project: User Authentication Module
-Version: 1.0
+Version: 2.0
 Requirement 1: User login via Email and Password.
 Requirement 2: Password must be at least 8 characters.
